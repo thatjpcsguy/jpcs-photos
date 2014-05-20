@@ -2,9 +2,6 @@
 
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
-		<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css" />
-		<link rel="stylesheet" type="text/css" href="css/jpcs-social.css" />
 		<link rel="stylesheet" type="text/css" href="css/jpcs.css" />
 		<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css?v=2.1.4" />
 
