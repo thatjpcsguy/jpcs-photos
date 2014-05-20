@@ -16,7 +16,7 @@
 	</head>
 	<body>
 
-		<img src="img/jpcs_white.png" style="left: 140px; top: 140px; position: fixed; height: 80px;" />
+		<a href="/"><img src="/img/jpcs-white.png" style="left: 140px; top: 140px; position: fixed; height: 80px;" /></a>
 		<div id="img-row">
 			<div class="spinner">
   <div class="rect1"></div>

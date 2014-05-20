@@ -7,6 +7,12 @@ body
 
 	
 }
+body {
+  font-family: "proxima-nova",'Open Sans', sans-serif;
+  font-weight: lighter;
+  line-height: 1.6em;
+}
+
 
 #img-row 
 {
