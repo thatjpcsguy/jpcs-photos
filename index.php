@@ -6,13 +6,13 @@
 		<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css" />
 		<link rel="stylesheet" type="text/css" href="css/jpcs-social.css" />
 		<link rel="stylesheet" type="text/css" href="css/jpcs.css" />
-		<link rel="stylesheet" href="/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+		<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css?v=2.1.4" />
 
 		<meta name="viewport" content="width=800, user-scalable=no">
 
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="js/jquery.mousewheel-3.0.6.pack.js"></script>
-		<script src="/js/fancybox/jquery.fancybox.pack.js?v=2.1.4" type="text/javascript"></script>
+		<script src="js/fancybox/jquery.fancybox.pack.js?v=2.1.4" type="text/javascript"></script>
 	</head>
 	<body>
 
